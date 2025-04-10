@@ -17,3 +17,7 @@ Welcome to the GitHub page for the Core Econometrics Lab during the Spring term 
 [Lab 1 RmD Code](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_1.Rmd)
 
 #### [Challenge 1](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/challenge_1.pdf)
+
+## Week 2: Matrices and Data Cleaning
+
+### [Lab 2 PDF]
