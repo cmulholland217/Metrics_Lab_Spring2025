@@ -23,6 +23,6 @@ Welcome to the GitHub page for the Core Econometrics Lab during the Spring term 
 
 ### [Lab 2 PDF](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_2.pdf)
 
-[Lab 2 RmD Code] (https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_2.Rmd)
+[Lab 2 RmD Code](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_2.Rmd)
 
 #### [Dirty data to clean](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/dirty_data.csv)
