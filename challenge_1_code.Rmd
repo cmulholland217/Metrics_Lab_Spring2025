@@ -1,0 +1,45 @@
+---
+title: "Challenge_1_Code"
+date: "2025-04-04"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## The Challenge
+
+In this challenge, you are required to estimate Euler's number \( e \) using its series expansion.
+
+## Challenge Description
+
+Construct an R function that can compute the value of \( e \) to at least five decimal places. The function should rely on the series expansion method.
+
+## Method
+
+You will need to implement the series expansion \( e = \sum_{n=0}^{\infty} \frac{1}{n!} \) in R, making use of loops to sum the terms of the series until additional terms do not change the result significantly.
+
+## Code
+
+```{r}
+estimate_e <- function() {
+  e_estimate <- 0
+  n <- 0
+  term <- 1  # Start with 1/0!
+  
+  repeat {
+    e_estimate <- e_estimate + term
+    n <- n + 1
+    term <- term / n  # Compute the next term in the series, which is 1/n!
+    
+    if (term < .Machine$double.eps) break  # Break if the term is less than the smallest representable positive number
+  }
+  
+  return(e_estimate)
+}
+
+# Test the function
+estimated_e <- estimate_e()
+print(paste("Estimated e:", estimated_e))
+```
