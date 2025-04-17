@@ -33,7 +33,7 @@ Welcome to the GitHub page for the Core Econometrics Lab during the Spring term 
 
 [Lab 3 RmD Code](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_3.Rmd)
 
-### [Space Data](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/space_data.csv)
+#### [Space Data](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/space_data.csv)
 
-### [Time Data](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/time_data.csv)
+#### [Time Data](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/time_data.csv)
 
