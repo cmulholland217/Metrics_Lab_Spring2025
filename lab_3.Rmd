@@ -252,3 +252,15 @@ p_load(gridExtra)
 grid.arrange(plot1, plot2)
 
 ```
+### Scatter with Regression
+
+```{r}
+reg <- lm(INF~ UNRATE,data=time_data)
+
+ggplot(time_data,aes(x=UNRATE,y=INF)) +
+  geom_point(color="blue")+
+  geom_line(aes(y=fitted(reg)),color="red",size=1) +
+  labs(title = "Inflation over Unemplowment", x = "Unemployment", y = "Inflation")
+
+
+```
