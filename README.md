@@ -37,3 +37,11 @@ Welcome to the GitHub page for the Core Econometrics Lab during the Spring term 
 
 #### [Time Data](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/time_data.csv)
 
+## Week 4: Random Numbers and Simulations
+
+### [Lab 4 PDF](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_4.pdf)
+
+[Lab 4 RmD Code](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_4.Rmd)
+
+
+
