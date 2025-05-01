@@ -43,5 +43,11 @@ Welcome to the GitHub page for the Core Econometrics Lab during the Spring term 
 
 [Lab 4 RmD Code](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_4.Rmd)
 
+## Week 5: Refining our Simulation Skills
+
+### [Lab 5 PDF](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_5.pdf)
+
+[Lab 5 RmD Code](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_5.Rmd)
+
 
 
