@@ -49,5 +49,12 @@ Welcome to the GitHub page for the Core Econometrics Lab during the Spring term 
 
 [Lab 5 RmD Code](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_5.Rmd)
 
+#### [Lab 5 Solutions RmD](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_5_solutions.Rmd)
 
+#### [Lab 5 Solutions PDF](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_5_solutions.pdf)
 
+## Week 6: Introduction to Machine Learning
+
+### [Lab 6 PDF](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_6.pdf)
+
+[Lab 6 RmD Code](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_6.Rmd)
