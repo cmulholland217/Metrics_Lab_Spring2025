@@ -1,5 +1,5 @@
 ---
-title: "Lab 6: Simulation Challenges"
+title: "Lab 5: Simulation Challenges"
 date: "2024-05-01"
 output: pdf_document
 ---
