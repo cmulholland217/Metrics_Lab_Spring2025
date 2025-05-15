@@ -58,3 +58,17 @@ Welcome to the GitHub page for the Core Econometrics Lab during the Spring term 
 ### [Lab 6 PDF](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_6.pdf)
 
 [Lab 6 RmD Code](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_6.Rmd)
+
+## Week 7: Tables in R
+
+### [Lab 7 HTML](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_7.html) (Recommended)
+
+### [Lab 7 PDF](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_7.pdf)
+
+[Lab 7 RmD Code](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_7.Rmd)
+
+### [LaTeX Tables PDF](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/latex_tables_lab_7.pdf)
+
+[LaTeX Tables TEX](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/latex_tables_lab_7.tex)
+
+
