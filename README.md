@@ -71,4 +71,11 @@ Welcome to the GitHub page for the Core Econometrics Lab during the Spring term 
 
 [LaTeX Tables TEX](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/latex_tables_lab_7.tex)
 
+## Week 8: Maps and Spatial Data
+
+### [Lab 8 PDF](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_8.pdf)
+
+[Lab 8 RmD](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/lab_8.Rmd)
+
+#### [Spatial Data](https://github.com/cmulholland217/Metrics_Lab_Spring2025/blob/main/state_inflation_data.csv)
 
